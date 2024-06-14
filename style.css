@@ -1,0 +1,14 @@
+.banner{
+    background-color: gray;
+    width: 600px;
+    height: 300px;
+    border-radius: 12px;
+}
+footer{
+    background-image: linear-gradient(to right, gray , rgb(127, 162, 222));
+}
+.banner-section{
+    background-image: url('./Radiology-mri-machine-room.jpeg');
+      background-repeat: no-repeat; 
+      margin:100px;
+}
