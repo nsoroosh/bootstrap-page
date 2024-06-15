@@ -3,12 +3,17 @@
     width: 600px;
     height: 300px;
     border-radius: 12px;
+    margin: auto;
+    padding: 0 20px;
 }
 footer{
     background-image: linear-gradient(to right, gray , rgb(127, 162, 222));
 }
 .banner-section{
+    height: 500px;
+    width: 800px;
     background-image: url('./Radiology-mri-machine-room.jpeg');
       background-repeat: no-repeat; 
-      margin:100px;
+  background-size: 1000px;
+      margin:50px auto;
 }
