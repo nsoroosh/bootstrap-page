@@ -17,3 +17,15 @@ footer{
   background-size: 1000px;
       margin:50px auto;
 }
+@media only screen and (max-width: 600px) {
+    .banner{
+        width: 450px;
+        height: 220px;
+        line-height: 0.7;
+    }
+.banner-section{
+    height: 300px;
+    width: 500px;
+    background-size: 500px;
+}
+}
